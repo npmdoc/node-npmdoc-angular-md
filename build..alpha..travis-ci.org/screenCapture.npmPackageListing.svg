@@ -1,11 +1,11 @@
 <svg height="126" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="126" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 16:21:14 +0000     5236 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 16:21:14 +0000     1096 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 16:21:14 +0000     1512 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 16:21:14 +0000      707 bytes  dist/angular-md.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 16:21:14 +0000      680 bytes  dist/angular-md.min.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 16:21:14 +0000     1241 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 16:22:16 +0000     5236 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 16:22:16 +0000     1096 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 16:22:16 +0000     1512 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 16:22:16 +0000      707 bytes  dist/angular-md.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 16:22:16 +0000      680 bytes  dist/angular-md.min.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 16:22:16 +0000     1241 bytes  package.json</tspan>
 </text>
 </svg>
